@@ -1,0 +1,10 @@
+## Testing Wiki
+
+This is to test pushing to a wiki
+
+```{r fig.path = "./"}
+require(ggplot2)
+qplot(wt, mpg, data = mtcars)
+```
+
+Just a little change to test the post-commit hook.
